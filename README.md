@@ -92,11 +92,18 @@
 
 ###
 
-<h2 align="center">💖 Love what you see? A little support goes a long way! 🌸<br>Bitcoin: bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn<br>ETH: bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn</h2>
-
-###
-
-<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhqZWZoZWFuYzliODRjd2czcXY0N2ZhN3NveXgzYXpiOGowaDBxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/POXEy3APSwN0HAIlnZ/giphy.gif"  />
+<table>
+  <tr>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhqZWZoZWFuYzliODRjd2czcXY0N2ZhN3NveXgzYXpiOGowaDBxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/POXEy3APSwN0HAIlnZ/giphy.gif" height="200" />
+    </td>
+    <td style="padding-left:20px; vertical-align: middle;">
+      <h2>💖 Love what you see? A little support goes a long way! 🌸</h2>
+      <p>Bitcoin: <code>bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn</code><br>
+      ETH: <code>bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn</code></p>
+    </td>
+  </tr>
+</table>
 
 ###
 
