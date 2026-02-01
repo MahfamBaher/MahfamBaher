@@ -92,7 +92,7 @@
 
 ###
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhqZWZoZWFuYzliODRjd2czcXY0N2ZhN3NveXgzYXpiOGowaDBxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/POXEy3APSwN0HAIlnZ/giphy.gif" height="200" />
