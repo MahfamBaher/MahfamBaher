@@ -1,10 +1,4 @@
-<h3 align="center">Hi 🌸! My name is Mahfam and I'm a Back-end, from Spirit Realms</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MahfamBaher&theme=dark_lover&column=1&row=5&margin-w=4&margin-h=4" height="150" alt="trophy graph"  />
-</div>
+<h1 align="center">Hi 🌸! My name is Mahfam and I'm a Back-end, from Spirit Realms</h1>
 
 ###
 
@@ -98,7 +92,7 @@
 
 ###
 
-<p align="center">💖 Love what you see? A little support goes a long way! 🌸<br>Bitcoin: bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn<br>ETH: bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn</p>
+<h2 align="center">💖 Love what you see? A little support goes a long way! 🌸<br>Bitcoin: bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn<br>ETH: bc1q7sfcg8qy3xja0gmavkqap9sp3q7ypjuyv7xvsn</h2>
 
 ###
 
@@ -112,13 +106,7 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahfamBaher/MahfamBaher/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahfamBaher/MahfamBaher/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MahfamBaher/MahfamBaher/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/MahfamBaher/MahfamBaher/output/snake.svg" alt="Snake animation" />
 
 ###
 
